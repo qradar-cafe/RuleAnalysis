@@ -18,4 +18,4 @@ Para obtener las reglas tan solo hay que obtenerlas mediante el comando:
     /opt/qradar/support/extractRules.py -o reglas.tsv
 
 El propio script tiene la opción "--help", para ver sus opciones, pero tenéis una demo de como usarlo en el Monográfico que realizamos en el QRadar Café:
-https://ibm.box.com/s/b1ji5bf4hz3dmv20mmqqclh76hm96fet
+https://ibm.box.com/s/tkwyr1mk7auwb9k83h1erdqo7ftyoy0i
